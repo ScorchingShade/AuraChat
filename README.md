@@ -11,6 +11,16 @@
 
 > A free video chat and meetings app for web
 
+## What is AuraChat?
+Are you frustrated by being hampered in your meetings to pay for a premium plan for your zoom calls? Well AuraChat is here to solve that, with absolutely free video calling, conferencing and meetings! Just go to the HomePage url and share your room link with your friends to start calling right away!
+
+## Goodness of OpenSource
+AuraChat uses WebRTC as its core which is completely open source. So be assured of quality with the highest standards in peer-to-peer web communication!
+
+## Bugs
+I hate bugs, but since AuraChat is still in development, there are bound to be many of these critters! Join me on my discord channel to be a part of AuraChat team and develop this into one amazing app! [Discord](https://discord.gg/bt56NDt)
+
+
 ### 🏠 [Homepage](https://secure-garden-18007.herokuapp.com/)
 
 ### ✨ [Demo](https://secure-garden-18007.herokuapp.com/)
@@ -51,4 +61,3 @@ Give a ⭐️ if this project helped you!
 </a>
 
 ***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
