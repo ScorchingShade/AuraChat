@@ -18,7 +18,7 @@ Are you frustrated by being hampered in your meetings to pay for a premium plan 
 AuraChat uses WebRTC as its core which is completely open source. So be assured of quality with the highest standards in peer-to-peer web communication!
 
 ## Bugs
-I hate bugs, but since AuraChat is still in development, there are bound to be many of these critters! Join me on my discord channel to be a part of AuraChat team and develop this into one amazing app! [Discord](https://discord.gg/bt56NDt)
+I hate bugs, but since AuraChat is still in development, there are bound to be many of these critters! Join me on my discord channel to be a part of AuraChat team and develop this into one amazing app! [Discord](https://discord.gg/wjCbRSP)
 
 
 ### 🏠 [Homepage](https://secure-garden-18007.herokuapp.com/)
