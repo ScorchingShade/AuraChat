@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to AuraChat 👋</h1>
 <p>
-  <img alt="Version" src="https://img.shields.io/badge/version-1.0.1-blue.svg?cacheSeconds=2592000" />
+  <img alt="Version" src="https://img.shields.io/badge/version-1.0.2-blue.svg?cacheSeconds=2592000" />
   <a href="#" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/License-ISC-yellow.svg" />
   </a>
@@ -21,9 +21,9 @@ AuraChat uses WebRTC as its core which is completely open source. So be assured 
 I hate bugs, but since AuraChat is still in development, there are bound to be many of these critters! Join me on my discord channel to be a part of AuraChat team and develop this into one amazing app! [Discord](https://discord.gg/wjCbRSP)
 
 
-### 🏠 [Homepage](https://secure-garden-18007.herokuapp.com/)
+### 🏠 [Homepage](https://boiling-brook-87242.herokuapp.com/)
 
-### ✨ [Demo](https://secure-garden-18007.herokuapp.com/)
+### ✨ [Demo](https://boiling-brook-87242.herokuapp.com/)
 
 ## Install
 
