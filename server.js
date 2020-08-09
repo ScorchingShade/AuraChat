@@ -21,7 +21,7 @@ app.get('/', (req, res) => {
 
 //using uuid, we are now being redirected to a room
 app.get('/:room', (req, res) => {
-    res.render('room', { roomId: req.params.room });
+    res.render('roomtest', { roomId: req.params.room });
 })
 
 //using peer we are joining a room and passing two things, roomid and userid

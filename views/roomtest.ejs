@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aura Chat</title>
+    <link rel="stylesheet" href="style.css">
+
+    <script src="/socket.io/socket.io.js"></script>
+    <script src="https://unpkg.com/peerjs@1.3.1/dist/peerjs.min.js"></script>
+    <script src="https://kit.fontawesome.com/739c3e809f.js" crossorigin="anonymous"></script>
+
+    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="customStyle.css">
+
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+
+    <script>
+        const ROOM_ID = "<%=roomId%>";
+    </script>
+</head>
+
+<body>
+
+    <div class="row">
+        <div class="col-5"></div>
+        <div class="col-5 disp-sm" style="text-align: center;">Welcome to AuraChat</div>
+        <div class="col-5"></div>
+    </div>
+
+    <div class="box">
+        <div class="row">
+            <div class="col-15">
+                <div id="video-grid">
+
+                </div>
+            </div>
+        </div>
+
+        <div class="toolbox">
+
+            <div class="row">
+                <div class="col-4">
+                    <div class="controls">
+                        <i class="fas fa-microphone"></i>
+                        <span>Mute</span>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="controls">
+                        <i class="fas fa-video"></i>
+                        <span>Video</span>
+                    </div>
+                </div>
+                <div class="col-3">
+                    <div class="controls">
+                        <i class="fas fa-comment-alt"></i>
+                        <span>Chat</span>
+                    </div>
+                </div>
+                <div class="col-4">
+                    <div class="abort">
+                        Leave Meet
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <script src="script.js"></script>
+</body>
+
+</html>
